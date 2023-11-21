@@ -727,7 +727,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Traps:
   - {fileID: 7115968126018291563, guid: 747cd3f8160fc6f4990dc0473809900a, type: 3}
-  - {fileID: 9151400905611458512, guid: 2fa8da24ced9eb64e8c4cd2f8cced64b, type: 3}
+  - {fileID: 8247908610679007009, guid: 9d8570d1d83c8854d9d3029d5e2f37e1, type: 3}
   - {fileID: 1307176709695088658, guid: 5ed697498719d9244918281c232d81ee, type: 3}
   - {fileID: 7115968126018291563, guid: 747cd3f8160fc6f4990dc0473809900a, type: 3}
 --- !u!1 &519420028
